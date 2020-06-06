@@ -497,6 +497,7 @@ L[ "Dwarf" ] = "Nain";
 L[ "Hobbit" ] = "Hobbit";
 L[ "Beorning" ] = "Beornide";
 L[ "HighElf" ] = "Haut Elfe";-- Thanks F0urEyes#3544 on Discord
+L[ "StoutAxe" ] = "Nain Hache robuste";
 
 -- Free People Class
 L[ "Burglar" ] = "Cambrioleur";

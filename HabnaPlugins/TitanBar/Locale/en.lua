@@ -497,6 +497,7 @@ L[ "Dwarf" ] = "Dwarf";
 L[ "Hobbit" ] = "Hobbit";
 L[ "Beorning" ] = "Beorning";
 L[ "HighElf" ] = "High Elf";
+L[ "StoutAxe" ] = "Stout-axe";
 
 -- Free People Class
 L[ "Burglar" ] = "Burglar";

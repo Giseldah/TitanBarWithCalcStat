@@ -497,6 +497,7 @@ L[ "Dwarf" ] = "Zwerg";
 L[ "Hobbit" ] = "Hobbit";
 L[ "Beorning" ] = "Beorninger";
 L[ "HighElf" ] = "Hochelb";-- Thanks bornfight#0574 on Discord
+L[ "StoutAxe" ] = "Stark-Axt";
 
 -- Free People Class
 L[ "Burglar" ] = "Schurke";
